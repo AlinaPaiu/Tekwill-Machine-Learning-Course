@@ -18,3 +18,7 @@ Tekwill Course on Machine Learning with Python (April-June 2022) by Diana Artiom
 * Principal Component Analysis – PCA 
 * Model Evaluation and Selection
 * Web app and model Deployment with Flask and Heroku
+
+**Useful links:**
+* Pandas:
+https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf

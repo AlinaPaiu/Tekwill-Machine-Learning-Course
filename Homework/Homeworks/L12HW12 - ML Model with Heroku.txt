@@ -1,0 +1,10 @@
+Tema pentru acasă:
+Inceraca sa alegi un set de date desinestatator si sa faci o aplicatie web cu ajutorul careia utilizatorii ar putea face predictii, similar cu felul in care am facut asta impreuna in cadrul lectiei. 
+
+Resurse utile:
+Tutorial de flask + deploy cu heroku: https://stackabuse.com/deploying-a-flask-application-to-heroku/ 
+Cum instalezi mediul de dezvoltare vscode - https://code.visualstudio.com/Download 
+Cum instalezi python local - https://www.python.org/downloads/windows/ 
+Cum instalezi virtualenv - https://medium.com/@_sammiie/how-to-install-virtualenv-on-windows-machine-44948aac0649 
+Cum lucrezi cu virtualenv - https://python.land/virtual-environments/virtualenv 
+Link la aplicatia exemplu: https://mlwithpythonl12.herokuapp.com/ 
